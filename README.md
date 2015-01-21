@@ -1,4 +1,4 @@
-### On/OFf Test
+### On/Off Test
 
 This is a small program to test the use of the On/Off node package for reading
 I/O on the Raspberry Pi.  To use the package:

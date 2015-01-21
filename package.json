@@ -1,0 +1,23 @@
+{
+  "name": "on-off-test",
+  "version": "1.0.0",
+  "description": "This is a small package to test the use of the onoff package with the Raspberry Pi",
+  "main": "on-off-test.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbultman/on-off-test.git"
+  },
+  "keywords": [
+    "onoff",
+    "Raspberry Pi",
+  ],
+  "dependencies": {
+    "onoff": "*"
+  },
+  "author": "Rob Bultmad",
+  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/rbultman/on-off-test/issues"
+  },
+  "homepage": "https://github.com/rbultman/on-off-test/issues"
+}
