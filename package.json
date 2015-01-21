@@ -9,15 +9,15 @@
   },
   "keywords": [
     "onoff",
-    "Raspberry Pi",
+    "Raspberry Pi"
   ],
   "dependencies": {
     "onoff": "*"
   },
-  "author": "Rob Bultmad",
-  "license": "MIT"
+  "author": "Rob Bultman",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/rbultman/on-off-test/issues"
   },
-  "homepage": "https://github.com/rbultman/on-off-test/issues"
+  "homepage": "https://github.com/rbultman/on-off-test"
 }
