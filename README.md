@@ -4,7 +4,7 @@ This is a small program to test the use of the On/Off node package for reading
 I/O on the Raspberry Pi.  To use the package:
 
 1. git clone https://github.com/rbultman/on-off-test.git
-2. cd one-off-test
+2. cd on-off-test
 3. npm install
 4. gpio -g mode 17 input
 5. gpio -g mode 17 up
